@@ -1,4 +1,6 @@
-<span style="font-size:50px;">:wave: Hello, I am the traveling programmer!</span>
+![Logo Text](logoText.png)
+
+&nbsp;<br>
 
 ![Codewars Profile Badge](https://www.codewars.com/users/thcheetah777/badges/large)\
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to)](https://dev.to/thcheetah777)
@@ -53,7 +55,38 @@
 [![Email Me Badge](https://img.shields.io/badge/Email%20Me-✉-3b3b3b?style=for-the-badge&logoWidth=40)](mailto:thcheetah777@gmail.com)
 
 &nbsp;<br>
-
-# Here's a meme for you 😆
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
 
 ![Local Variable Meme](localVariable.jpg)
