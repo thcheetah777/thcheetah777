@@ -43,50 +43,6 @@
 
 &nbsp;<br>
 
-# What I'm working on 🚧
-
- - [Pie-Ball Extreme](https://github.com/thcheetah777/PieBallExtreme) from [Talon Studios](https://github.com/Talon-Studios)
- - [Frog Wars](https://github.com/Talon-Studios/frogWars) from [Talon Studios](https://github.com/Talon-Studios)
-
-&nbsp;<br>
-
 # Contact me ☎️
 
 [![Email Me Badge](https://img.shields.io/badge/Email%20Me-✉-3b3b3b?style=for-the-badge&logoWidth=40)](mailto:thcheetah777@gmail.com)
-
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-
-![Local Variable Meme](localVariable.jpg)
