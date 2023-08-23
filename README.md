@@ -1,6 +1,6 @@
-![Logo Text](logoText.png)
+# "Hello there!"
 
-&nbsp;<br>
+Who am I? I'm just a passionate programmer who is also traveling full-time.
 
 ![Codewars Profile Badge](https://www.codewars.com/users/thcheetah777/badges/large)\
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to)](https://dev.to/thcheetah777)
@@ -8,11 +8,9 @@
 [![Codepen Badge](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen)](https://codepen.io/thecheetah777)
 [![Codewars Badge](https://img.shields.io/badge/codewars-b1361e?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/thcheetah777)
 
-![Cheetah GIF](cheetah.gif) 
+&nbsp;
 
-&nbsp;<br>
-
-# Stats 📈
+## Stats 📈
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thcheetah777&layout=compact)
 
@@ -20,9 +18,9 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thcheetah777&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;<br>
+&nbsp;
 
-# My favorite tools 🔨
+## My favorite tools 🔨
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-ff8d29?style=for-the-badge&logo=html5)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-cbaf2f?style=for-the-badge&logo=javascript)
@@ -41,8 +39,8 @@
 ![Lighthouse Badge](https://img.shields.io/badge/Lighthouse-ffffff?style=for-the-badge&logo=lighthouse)
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-3b3b3b?style=for-the-badge&logo=googleanalytics)
 
-&nbsp;<br>
+&nbsp;
 
-# Contact me ☎️
+## Contact me ☎️
 
 [![Email Me Badge](https://img.shields.io/badge/Email%20Me-✉-3b3b3b?style=for-the-badge&logoWidth=40)](mailto:thcheetah777@gmail.com)
