@@ -14,8 +14,6 @@ Who am I? I'm just a passionate developer who is also traveling full-time.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thcheetah777&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thcheetah777&hide_border=true&fire=FB8C01&ring=FB8C01)](https://git.io/streak-stats)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thcheetah777&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
