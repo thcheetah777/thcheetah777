@@ -27,7 +27,6 @@ I'm a passionate developer who is also traveling full-time.
 ![Node.js Badge](https://img.shields.io/badge/Node.js-184b18?style=for-the-badge&logo=node.js)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-3fa4e9?style=for-the-badge&logo=visualstudiocode)
 ![Figma Badge](https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma)
-![Clickup Badge](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=clickup)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
 ![Github Desktop Badge](https://img.shields.io/badge/GitHub%20Desktop-7e30a2?style=for-the-badge&logo=github)
