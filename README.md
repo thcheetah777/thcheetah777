@@ -1,6 +1,6 @@
 # "Hello there!"
 
-Who am I? I'm just a passionate developer who is also traveling full-time.
+I'm a passionate developer who is also traveling full-time.
 
 ![Codewars Profile Badge](https://www.codewars.com/users/thcheetah777/badges/large)\
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to)](https://dev.to/thcheetah777)
