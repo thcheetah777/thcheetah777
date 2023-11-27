@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a passionate developer who is also traveling full-time.
+I'm a web dev by day, game dev by night.
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,svelte,astro,bash,cs,codepen,devto,discord,git,github,godot,jest,md,nodejs,py,regex,stackoverflow,supabase,svg,tailwind,ts,unity,vscode,vite)
 
